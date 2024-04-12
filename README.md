@@ -96,6 +96,10 @@ While building this project, several lessons were learned and challenges were en
 
 - **Documentation and Best Practices** : Documenting the code and adhering to best practices for readability and maintainability were key considerations. Writing clear and concise comments, structuring the code logically, and following PEP 8 guidelines ensured that the project remained organized and accessible to others.
 
+## ✍️ Authors
+
+- [@KushanManahara](https://github.com/KushanManahara/)
+
 ## 🧑‍💼 About Me
 
 ### Kushan Manahara
@@ -119,9 +123,7 @@ Connect with me on [LinkedIn](<[Your_LinkedIn_Profile_URL](https://www.linkedin.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kushan-portfollio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushan-manahara/)
 
-## ✍️ Authors
 
-- [@KushanManahara](https://github.com/KushanManahara/)
 
 ## 🎖️ Badges
 
